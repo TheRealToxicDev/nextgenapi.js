@@ -1,35 +1,35 @@
 {
-    "name": "nextgenapi.js",
-    "version": "2.0.0",
-    "description": "Official API Module for NextGenBots.xyz",
-    "main": "index.js",
-    "directories": {
-        "lib": "lib"
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "Discord",
-        "Bot",
-        "List",
-        "NGBL",
-        "API",
-        "Module"
-    ],
-    "author": "TheRealToxicDev",
-    "license": "MIT",
-    "dependencies": {
-        "axios": "^0.21.0",
-        "wumpfetch": "^0.3.1"
-    },
-    "devDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/TheRealToxicDev/nextgenapi.js.git"
-    },
-    "bugs": {
-        "url": "https://github.com/TheRealToxicDev/nextgenapi.js/issues"
-    },
-    "homepage": "https://github.com/TheRealToxicDev/nextgenapi.js#readme"
+  "name": "nextgenapi.js",
+  "version": "2.0.3",
+  "description": "The Official NPM Module for interacting with the Next Gen Bots API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "List",
+    "NGBL",
+    "API",
+    "Module"
+  ],
+  "author": "TheRealToxicDev",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "wumpfetch": "^0.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRealToxicDev/nextgenapi.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRealToxicDev/nextgenapi.js/issues"
+  },
+  "homepage": "https://github.com/TheRealToxicDev/nextgenapi.js#readme"
 }
