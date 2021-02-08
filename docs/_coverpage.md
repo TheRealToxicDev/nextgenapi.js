@@ -5,4 +5,5 @@
 > The official NPM Module for interacting with the Next Gen Bots API.
 
 [GitHub](https://github.com/TheRealToxicDev/nextgenapi.js)
-[Get Started](#about)
+[Get Started](/about/index)
+
