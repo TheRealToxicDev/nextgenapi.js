@@ -10,27 +10,8 @@ The official NPM Module for interacting with the Next Gen Bots API
 
 * [Website](https://nextgenbots.xyz)
 
----
-
-## Installation
-`npm i nextgenapi.js@latest`
-
-or
-
-`npm i nextgenapi.js@1.10.0`
-
-or
-
-`npm i nextgenapi.js --save`
-
----
-
-## Hard Coded Install
-Append the Line below to your package.json
-```
-    "nextgenapi.js": "^1.10.0",
-```
-
-• Save and profit
-
----
+## Documentation
+- [Post Stats](./examples/post)
+- [Get Stats](./examples/get)
+- [Installation](./install/index)
+- [NPM Page](https://www.npmjs.com/package/nextgenapi.js)
