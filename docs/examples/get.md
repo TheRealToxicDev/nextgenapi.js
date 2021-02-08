@@ -4,18 +4,6 @@
 NextGen()
 ```
 
-###### Arguments
-Parameter | Type | Optional | Description
-|--------------|----------|--------------|--------------|
-daily_votes | Number | Yes | Fetch the Daily Votes for the Bot.
-short_desc | Snowflake | Yes | Fetch the Short Description for the Bot.
-prefix | String | Yes | The Bots Prefix.
-ownerID | Snowflake | Yes | The Bot Owners ID
-tags | String | Yes | List of the Bots Tags on our Website.
-support | String | Yes | The Bots assigned Support Link Token (NOTE: This only returns the Invite Token you have to add the link Example: `https://discord.gg/${7v4fNuF5Bm}`)
-total_votes | Number | The Bots total Vote Count.
-guilds | Number | Total Number of Guilds the Bot is in (If posting stats)
-
 ---
 
 ### Example
