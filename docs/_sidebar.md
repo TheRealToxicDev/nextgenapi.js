@@ -1,0 +1,15 @@
+- Versions:
+   - Current: v2.0.1
+   - Stable: v2.0.1
+
+- About
+   - [Getting Started](/about/index)
+- Installation
+   - [Install Guide](/install/index)
+- Examples
+   - [Post Stats](/examples/post)
+   - [Get Stats](/examples/get)
+- Community
+   - [Discord](https://discord.gg/7v4fNuF5Bm)
+   - [Website](https://nextgenbots.xyz/)
+   - [Support](https://github.com/TheRealToxicDev/nextgenapi.js/issues)
